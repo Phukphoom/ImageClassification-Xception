@@ -25,6 +25,6 @@
     
 ### **References**
 
-Ref. Source Code : https://colab.research.google.com/drive/1WjRqg5FDZ1qWKET0rUG59LKjfxUtbBzg?usp=sharing
+- Ref. Source Code : https://colab.research.google.com/drive/1WjRqg5FDZ1qWKET0rUG59LKjfxUtbBzg?usp=sharing
 
-Dataset : https://www.kaggle.com/gpiosenka/balls-image-classification
+- Dataset : https://www.kaggle.com/gpiosenka/balls-image-classification
