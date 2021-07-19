@@ -1,6 +1,6 @@
 # **Image Classification ด้วย Pre Trained Model - Keras.Xception**
 
-## **Setup**
+### **Setup**
 
 1. เปิด IC-ModelPrediction.ipynb และ IC-ModelTraining.ipynb ด้วย Colab
 
@@ -22,3 +22,9 @@
                     |--- image.jpg
                         ...
     ```
+    
+### **References**
+
+Ref. Source Code : https://colab.research.google.com/drive/1WjRqg5FDZ1qWKET0rUG59LKjfxUtbBzg?usp=sharing
+
+Dataset : https://www.kaggle.com/gpiosenka/balls-image-classification
